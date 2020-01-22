@@ -1,0 +1,11 @@
+Code Book
+
+
+Reference to the variable names in the file "Final Data.txt:
+
+Subject: respondent Ids
+Activity: Type of activity performed corresponding to the variables in the dataset
+
+mean(): Mean value
+std(): Standard deviation
+meanFreq(): Weighted average of the frequency components to obtain a mean frequency
